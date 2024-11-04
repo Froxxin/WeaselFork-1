@@ -1,4 +1,36 @@
 ﻿Entries:
+- author: Scribbles0, Plykiya, nikthechampiongr
+  changes:
+  - message: You can now execute incapacitated/cuffed entities or yourself with certain
+      sharp weapons. Executions require a do-after, deal 9x the damage of a normal
+      attack, and ignore damage resistances.
+    type: Add
+  id: 7086
+  time: '2024-08-11T03:05:54.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30104
+- author: Plykiya
+  changes:
+  - message: Cooking shelves have been renamed to Kitchen shelves, you can now put
+      more drinks and cutlery in them.
+    type: Tweak
+  id: 7087
+  time: '2024-08-11T06:21:34.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30858
+- author: BombasterDS
+  changes:
+  - message: You can now change the suit's sensors on incapacitated people without
+      taking it off
+    type: Tweak
+  id: 7088
+  time: '2024-08-11T09:04:43.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/29668
+- author: lzk228
+  changes:
+  - message: RCD UI can be activated only in hand.
+    type: Tweak
+  id: 7089
+  time: '2024-08-11T09:15:28.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30861
 - author: TokenStyle
   changes:
   - message: Pax reagent now refresh pacified.
@@ -3922,33 +3954,3 @@
   id: 7585
   time: '2024-11-03T11:25:30.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/33134
-- author: MilenVolf
-  changes:
-  - message: Ghost roles menu is now collapsible! This makes it much easier to find
-      a specific role that you want.
-    type: Tweak
-  id: 7586
-  time: '2024-11-04T00:49:42.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/32717
-- author: Tr1bute
-  changes:
-  - message: A popup now appears when attempting to harvest mutated plants that require
-      sharp tools.
-    type: Add
-  id: 7587
-  time: '2024-11-04T00:56:41.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33136
-- author: Boolean-Buckeye
-  changes:
-  - message: Emergency lights can be constructed and deconstructed
-    type: Add
-  id: 7588
-  time: '2024-11-04T03:24:22.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/32945
-- author: thetolbean
-  changes:
-  - message: The web coat and boots can now be broken down into silk.
-    type: Fix
-  id: 7589
-  time: '2024-11-04T03:33:51.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33121
